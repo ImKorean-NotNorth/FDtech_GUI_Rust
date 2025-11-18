@@ -1,0 +1,31 @@
+# .pyc
+*.pyc
+__pycache__/
+
+# Mac 파일
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+# vscode 파일
+.vscode
+
+# Directories #
+TestMedia
+Result
+logs
+build
+dist
+pyinstaller
+
+# model
+TorchServe/model_store
+
+# venv (가상환경)
+hyeonu
+jinwon
+local_ai_server
+venv
+.park
+gui
